@@ -1,0 +1,16 @@
+2025-05-17 16:04:20.128 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Selenium_Workspace\OpencartV4\grouping.xml
+
+2025-05-17 16:04:25.788 [main] INFO  testCases.TC_002_LoginTest - ***Starting TC_002_LoginTest***
+2025-05-17 16:04:27.471 [main] INFO  testCases.TC_002_LoginTest - ***Finished TC_002_LoginTest***
+2025-05-17 16:04:53.389 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Selenium_Workspace\OpencartV4\grouping.xml
+
+2025-05-17 16:04:56.603 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest***
+2025-05-17 16:04:56.624 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Clicked on My account Link ***
+2025-05-17 16:04:56.702 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Clicked on register Link ***
+2025-05-17 16:04:57.374 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Providing customer details ***
+2025-05-17 16:04:58.852 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Validating expected message.. ***
+2025-05-17 16:04:58.902 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountRegistrationTest***
+2025-05-17 16:05:02.010 [main] INFO  testCases.TC_002_LoginTest - ***Starting TC_002_LoginTest***
+2025-05-17 16:05:05.138 [main] INFO  testCases.TC_002_LoginTest - ***Finished TC_002_LoginTest***
